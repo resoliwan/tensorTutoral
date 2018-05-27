@@ -6,9 +6,13 @@
 First Steps with TensorFlow.
 
 # Sequence
-## 1. Define Features and Configure Feature Columns.
-## 2. Define the Target.
-## 3. Configure the LinerRegression
-## 4. Define the Input Function.
-## 5. Tranin the model.
-## 6. Evaluate the Model.
+## 1. Define Features & target.
+- Define Features and Configure Feature Columns.
+- Define the Target.
+## 2. Build model.
+- Configure the LinerRegression
+- Define the Input Function.
+
+## 3. Tranin the model.
+
+## 4. Evaluate the Model.
